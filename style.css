@@ -57,7 +57,7 @@ img{
     z-index: 5;
     margin: 2px;
     position: absolute;
-    left: 36%;
+    left: 27%;
     top: 20px;
     position: fixed;
 }
@@ -222,9 +222,10 @@ details p{
     color: #86868B;
     border-bottom: 1px solid #86868B;
     padding-bottom: 10px;
-    left: 10px;
+    left: 5px;
     position: absolute;
     margin-top: 10px;
+    font-size: 20px;
 }
 
 .secMod-conteudo p {
@@ -233,7 +234,7 @@ details p{
 }
 
 .conteudoMod{
-    width: 50%;
+    width: 70%;
     margin-left: 50%;
 
 }
