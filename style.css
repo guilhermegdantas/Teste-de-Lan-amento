@@ -57,7 +57,7 @@ img{
     z-index: 5;
     margin: 2px;
     position: absolute;
-    left: 10%;
+    left: 25%;
     top: 20px;
     position: fixed;
 }
@@ -106,7 +106,7 @@ img{
 }
 
 .carousel-imagens{
-    margin-left: 10%;
+    margin-left: 13%;
     margin-top: 30px;
 }
 
@@ -235,7 +235,7 @@ details p{
 }
 
 .conteudoMod{
-    width: 90%;
+    width: 80%;
     margin-left: 50%;
 
 }
