@@ -33,7 +33,7 @@ img{
 .botao-ctt{
     position: absolute;
     top: 0;
-    left: 1000%;
+    left: 800%;
 }
 
 .botao-cabecalho {
@@ -99,7 +99,7 @@ img{
     width: 90%;
     margin-top: 50px;
     font-size: 15px;
-    margin-left: 15px;
+    margin-left: 25px;
 }
 
 .noteCod{
@@ -182,7 +182,7 @@ details p{
 .secondModal{
     text-align: center;
     margin-top: 50px;
-    margin: 2px;
+    margin: 1px;
     width: 100%;
     display: none;
 }
