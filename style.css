@@ -9,7 +9,8 @@
 }
 
 body{
-    max-width: 400px;
+    max-width: 700px;
+    text-align: center;
 }
 
 img{
@@ -32,7 +33,7 @@ img{
 .botao-ctt{
     position: absolute;
     top: 0;
-    left: 310%;
+    left: 1200%;
 }
 
 .botao-cabecalho {
@@ -57,7 +58,7 @@ img{
     z-index: 5;
     margin: 2px;
     position: absolute;
-    left: 32%;
+    left: 36%;
     top: 20px;
     position: fixed;
 }
@@ -82,9 +83,9 @@ img{
     margin: 10px;
     margin-top: 120px;
     font-family: 'Playfair', sans-serif;
-    font-size: 25px;
-    width: 250px;
-    line-height:20px;
+    font-size: 35px;
+    width: 350px;
+    line-height:30px;
 }
 
 .carousel-imagens{
@@ -126,7 +127,7 @@ img{
     color: white;
     position: absolute;
     left: 19%;
-    top: 3%;
+    top: 1.5%;
 }
 
 .modal-conteudo {
@@ -136,7 +137,7 @@ img{
     background-color: #181818;
     margin: 30px auto;
     padding: 20px;
-    width: 60%;
+    width: 70%;
     color: white;
 }
 
@@ -152,6 +153,10 @@ details{
 summary{
     padding-bottom: 5px;
     text-align: center;
+}
+
+details p{
+    margin: 5px;
 }
 
 .planBronze{
@@ -178,25 +183,39 @@ summary{
     text-align: center;
     margin: 10px;
     margin-top: 50px;
-    width: 280px;
+    width: 100%;
     display: none;
 }
 
 .secMod-conteudo {
+    background-color: #151515;
+    border-radius: 8px;
     font-family: 'Poppins', sans-serif;
     margin-bottom: 100px;
     text-align: center;
+    border: none;
+    padding: 30px;
 }
 
-.secMod-conteudo h2 {
-    font-family: 'Playfair', sans-serif;
-    font-size: 20px;
-    font-weight: 400;
+.secMod-conteudo h3{
+    width: 230px;
+    color: #86868B;
+    border-bottom: 1px solid #86868B;
+    padding-bottom: 10px;
+    margin-left: 20px;
+    position: absolute;
+    margin-top: 10px;
 }
 
 .secMod-conteudo p {
-    margin-top: 15px;
     font-size: 13px;
+    color: white;
+}
+
+.conteudoMod{
+    width: 50%;
+    margin-left: 50%;
+
 }
 
 .btn {
