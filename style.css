@@ -57,7 +57,7 @@ img{
     z-index: 5;
     margin: 2px;
     position: absolute;
-    left: 42%;
+    left: 36%;
     top: 20px;
     position: fixed;
 }
@@ -101,7 +101,7 @@ img{
     font-family: 'Playfair', sans-serif;
     font-size: 45px;
     width: 350px;
-    line-height:30px;
+    line-height:36px;
 }
 
 .carousel-imagens{
@@ -222,7 +222,7 @@ details p{
     color: #86868B;
     border-bottom: 1px solid #86868B;
     padding-bottom: 10px;
-    margin-left: 20px;
+    left: 10px;
     position: absolute;
     margin-top: 10px;
 }
