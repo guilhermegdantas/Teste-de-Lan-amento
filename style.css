@@ -97,7 +97,7 @@ img{
 }
 
 .descricao{
-    margin-left: 50%;
+    margin: 15px;
     margin-top: 120px;
     font-family: 'Playfair', sans-serif;
     font-size: 45px;
@@ -219,14 +219,14 @@ details p{
 }
 
 .secMod-conteudo h3{
-    width: 230px;
+    width: 200px;
     color: #86868B;
     border-bottom: 1px solid #86868B;
     padding-bottom: 10px;
     left: 5px;
     position: absolute;
     margin-top: 10px;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .secMod-conteudo p {
